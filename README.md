@@ -79,12 +79,7 @@ A PRISMA-framework systematic review critically examining classical ML and deep 
 </tr>
 </table>
 
-### 🔬 Under Review
 
-| Title | Venue | Topic |
-|---|---|---|
-| *Decision Latency as a Vulnerability in Cyber Defence* | Book Chapter | Why SOCs lose time, not signal, during real incidents |
-| *Hardware Tampering & Mobile Device Forensics* | Journal Article | How physical hardware attacks defeat forensic acquisition |
 
 ---
 
