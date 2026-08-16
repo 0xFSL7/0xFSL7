@@ -1,117 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:00B4D8&height=200&section=header&text=0xFSL7&fontSize=80&fontColor=00FF41&fontAlignY=38&desc=Faisal%20Khan%20·%20Security%20Researcher&descAlignY=62&descSize=20&descColor=00B4D8&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1F6FEB,100:58A6FF&height=210&section=header&text=0xFSL7&fontSize=80&fontColor=FFFFFF&fontAlignY=35&desc=Faisal%20Khan%20%C2%B7%20Cybersecurity%20Researcher%20%C2%B7%20Malware%20Analyst&descAlignY=60&descSize=18&descColor=9CCFFF&animation=fadeIn" alt="0xFSL7 — Faisal Khan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=750&height=50&lines=Malware+Analyst+%7C+Reverse+Engineer+%7C+Security+Researcher;Android+Security+%7C+Threat+Intelligence+%7C+CTF+Player;MSc+Cyber+Security+%26+Forensics+%40+Gujarat+University;Published+Researcher+%7C+Bug+Bounty+%7C+0xRoot2Pwn" alt="Typing SVG" />
-
-<br/>
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--7318--3202-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7318-3202)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xfsl7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xfsl7/)
-[![X](https://img.shields.io/badge/X-@0xfsl7-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xfsl7)
-[![Website](https://img.shields.io/badge/Universe_of_Hacking-111111?style=for-the-badge&logo=google-chrome&logoColor=00FF41)](https://universeofhacking.netlify.app/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=860&height=50&lines=Malware+Analysis+%7C+Reverse+Engineering+%7C+Android+Security;Digital+Forensics+%7C+Threat+Intelligence+%7C+Security+Research;MSc+Cyber+Security+%26+Forensics+%E2%80%94+Gujarat+University;Published+Security+Researcher" alt="Research focus" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=0xFSL7&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge)](https://github.com/0xFSL7)
-[![GitHub Followers](https://img.shields.io/github/followers/0xFSL7?label=FOLLOWERS&style=for-the-badge&color=00B4D8&logo=github)](https://github.com/0xFSL7?tab=followers)
-[![Stars](https://img.shields.io/github/stars/0xFSL7?label=TOTAL+STARS&style=for-the-badge&color=FFD700&logo=github)](https://github.com/0xFSL7)
+<a href="https://github.com/0xFSL7"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/0xfsl7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0001-7318-3202"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+<a href="https://x.com/0xfsl7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://universeofhacking.netlify.app/"><img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.70849/ijsci03022686331"><img src="https://img.shields.io/badge/Published_Research-DOI:_10.70849/ijsci03022686331-58A6FF?style=flat-square&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=0xFSL7&style=flat-square&color=1F6FEB&label=Profile+Views" alt="visitors" />
 
 </div>
 
----
+<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+## About
 
-## `> whoami`
-
-```bash
-┌──(0xFSL7㉿kali)-[~]
-└─$ cat about.txt
+```yaml
+name        : Faisal Khan
+handle      : 0xFSL7
+role        : Cybersecurity Researcher · Malware Analyst
+location    : Ahmedabad, Gujarat, India
+education   : MSc Cyber Security & Forensics — Gujarat University (2025–Present)
+previous    : BCA — Lokmanya College of Computer Applications (2022–2025)
+research    : [Malware Analysis, Reverse Engineering, Android Security, Digital Forensics]
+publication : "ML-Based Malware Detection: A Systematic Review" — IJSCI · 2026
+cert        : CNSP — Certified Network Security Practitioner (The SecOps Group)
+affiliation : Malware Lab, Dept. of Biochemistry & Forensic Science, Gujarat University
+community   : [Universe of Hacking, Null Ahmedabad, BSides Ahmedabad]
 ```
 
-```
-Name         :  Faisal Khan
-Handle       :  0xFSL7
-Location     :  Ahmedabad, Gujarat, India
-Status       :  MSc Cyber Security & Forensics — Gujarat University (2025–2027)
-Prev          :  BCA — Lokmanya College of Computer Applications (2022–2025)
-Cert          :  Certified Network Security Practitioner (CNSP) — The SecOps Group
-Research     :  Malware Analysis · Reverse Engineering · Android Security · Digital Forensics
-Published    :  "ML-Based Malware Detection: A Systematic Review" — IJSCI, Feb 2026
-Team         :  0xBinaryOrbits · CTF: 0xRoot2Pwn
-Community    :  Founder @ Universe of Hacking · Volunteer @ BSides Ahmedabad · Null Ahmedabad
-Lab          :  Malware Lab, Dept. of Biochemistry & Forensic Science, Gujarat University
-```
+> **Mission** — Understanding malicious software requires more than detecting indicators.
+> I research how malware behaves, how binaries implement malicious capabilities, and how
+> security tooling can turn low-level observations into measurable detection signals.
 
-```bash
-┌──(0xFSL7㉿kali)-[~]
-└─$ cat mission.txt
+<br/>
 
-Understanding attacker tradecraft is only useful if it makes detection
-and response faster. That's the direction I'm building toward:
-SOC analysis, malware analysis, and threat intelligence — using CTFs,
-bug bounty, and reverse engineering as the training ground, not the destination.
-```
+## Current Focus
 
----
+| Area | Work |
+|:--|:--|
+| **Malware Analysis** | Static and dynamic triage, config and IOC extraction, family classification |
+| **Reverse Engineering** | x86/x64 disassembly, unpacking, anti-debug bypass, Windows internals |
+| **Android Security** | APK analysis, smali, droppers, C2 traffic, MobSF pipelines |
+| **Digital Forensics** | Artifact recovery, memory and disk analysis, evidence timelines |
+| **ML for Security** | Feature engineering, detection models, explainability (SHAP, LIME) |
+| **Threat Intelligence** | TTP mapping, MITRE ATT&CK, behavioral signatures |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+<br/>
 
-## `> research --publications`
+## Publications
 
-<table>
-<tr>
-<td width="100%">
+<table><tr><td>
 
-### 📄 Machine Learning-Based Malware Detection: A Systematic Review
-**International Journal of Sciences and Innovation Engineering (IJSCI) · February 2026**
+### Machine Learning-Based Malware Detection: A Systematic Review
+**International Journal of Sciences and Innovation Engineering (IJSCI) · 2026**
 
-A PRISMA-framework systematic review critically examining classical ML and deep learning approaches for malware detection in the context of increasingly evasive, AI-augmented threats. Covers feature engineering, model evaluation, XAI applicability, and detection gaps.
+A PRISMA-framework systematic review of classical machine learning and deep learning
+approaches to malware detection against increasingly evasive threats — covering feature
+engineering, model evaluation practices, explainable AI, and remaining detection gaps.
+
+**DOI:** [`10.70849/ijsci03022686331`](https://doi.org/10.70849/ijsci03022686331)
+
+`Malware Detection` · `Machine Learning` · `Deep Learning` · `Explainable AI` · `Cybersecurity`
 
 **Co-authors:** Bhavesh Parmar · Dr. Kiran Dodiya · Dr. Kapil Kumar · Dr. Parvesh Sharma
 
-[![DOI](https://img.shields.io/badge/DOI-10.70849%2Fijsci03022686331-00B4D8?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.70849/ijsci03022686331)
-[![ISSN](https://img.shields.io/badge/ISSN-3049--0251-7209B7?style=for-the-badge)](https://doi.org/10.70849/ijsci03022686331)
-![Status](https://img.shields.io/badge/Status-Published-00FF41?style=for-the-badge)
+</td></tr></table>
 
-</td>
-</tr>
-</table>
+| Type | Work | Status |
+|:--|:--|:--:|
+| Publication | ML-Based Malware Detection: A Systematic Review | ![Published](https://img.shields.io/badge/Published_·_2026-58A6FF?style=flat-square&labelColor=0d1117) |
 
 
+<br/>
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-## `> research --interests`
+## Research Areas
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🦠 Malware Analysis
+### Malware Analysis
 ```
-├── Static Analysis      (PE, binary triage, strings)
-├── Dynamic Analysis     (behavioral sandbox, API tracing)
-├── Config Extraction    (C2, mutex, persistence)
-├── IOC Extraction       (network indicators, artifacts)
-├── Malware Families     (ransomware, RATs, droppers)
-└── Threat Intelligence  (TTPs, MITRE ATT&CK mapping)
+├── Static Analysis      → PE, triage, strings
+├── Dynamic Analysis     → sandbox, API tracing
+├── Behavioral Analysis  → process activity
+├── Config Extraction    → C2, mutex, persistence
+├── IOC Extraction       → network + host
+└── Malware Families     → ransomware, RATs
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Reverse Engineering
+### Reverse Engineering
 ```
-├── x86 / x64 Assembly   (disassembly, decompilation)
-├── Control Flow         (CFG analysis, code recovery)
-├── Obfuscation          (packing, anti-debug, evasion)
-├── Windows APIs         (system call analysis)
-├── Binary Debugging     (breakpoints, memory inspection)
-└── Malware Reversing    (unpacking, decryption routines)
+├── x86 / x64 Assembly   → disasm, decompile
+├── Control Flow         → CFG, code recovery
+├── Obfuscation          → packing, anti-debug
+├── Windows APIs         → syscall analysis
+├── Binary Debugging     → memory inspection
+└── Malware Reversing    → unpacking, crypto
 ```
 
 </td>
@@ -119,184 +116,169 @@ A PRISMA-framework systematic review critically examining classical ML and deep 
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Android Security
+### Android Security
 ```
-├── APK Reverse Eng.     (JADX, Apktool, smali)
-├── Static APK Analysis  (manifest, permissions, code)
-├── Dynamic Analysis     (runtime behavior, traffic)
-├── Android Malware      (dropper chains, C2 callbacks)
-├── Component Analysis   (services, receivers, activities)
-└── MobSF               (automated analysis pipeline)
+├── APK Analysis         → JADX, Apktool, smali
+├── Manifest & Perms     → attack surface
+├── Component Analysis   → services, receivers
+├── Android Malware      → droppers, C2
+├── Dynamic Analysis     → runtime, network
+└── MobSF                → analysis pipeline
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 ML for Cybersecurity
+### Digital Forensics
 ```
-├── Dataset Engineering  (feature selection, preprocessing)
-├── Classical ML         (RF, SVM, decision trees)
-├── Deep Learning        (CNN, LSTM for malware sequences)
-├── Explainability       (SHAP, LIME, XAI approaches)
-├── Concept Drift        (detection model longevity)
-└── Reproducibility      (open datasets, eval methodology)
+├── Disk Forensics       → filesystem artifacts
+├── Memory Forensics     → volatile evidence
+├── Artifact Recovery    → deleted data, logs
+├── Timeline Analysis    → event reconstruction
+├── Network Forensics    → PCAP, traffic traces
+└── Evidence Handling    → integrity, chain
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ML for Cybersecurity
+```
+├── Dataset Engineering  → preprocessing
+├── Classical ML         → RF, SVM, trees
+├── Deep Learning        → CNN, LSTM
+├── Model Evaluation     → precision/recall/F1
+├── Explainability       → SHAP, LIME, XAI
+└── Concept Drift        → bias, reproducibility
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Threat Intelligence
+```
+├── TTP Mapping          → MITRE ATT&CK
+├── IOC Enrichment       → network + host intel
+├── Malware Attribution  → family, campaign
+├── C2 Infrastructure    → tracking, pivoting
+├── Behavioral Sigs      → YARA-style logic
+└── Reporting            → actionable intel
 ```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+## Technical Stack
 
-## `> tools --list`
+**Languages**
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-### 🔬 Malware Analysis & Reverse Engineering
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-1C1C1C?style=for-the-badge&logoColor=00FF41)
-![PEStudio](https://img.shields.io/badge/PEStudio-333333?style=for-the-badge&logoColor=white)
-![JADX](https://img.shields.io/badge/JADX-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Apktool](https://img.shields.io/badge/Apktool-78C257?style=for-the-badge&logo=android&logoColor=white)
-![MobSF](https://img.shields.io/badge/MobSF-0066CC?style=for-the-badge&logoColor=white)
-![HxD](https://img.shields.io/badge/HxD_Hex_Editor-444444?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+**Reverse Engineering & Malware**
 
-### 🛡️ Security Testing
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00B4D8?style=for-the-badge&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-1C1C1C?style=for-the-badge&logoColor=00FF41)
-![Hydra](https://img.shields.io/badge/Hydra-222222?style=for-the-badge&logoColor=red)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Ghidra-B22222?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/x64dbg-2E8B57?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PEStudio-1E90FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/HxD-B8860B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/JADX-6A5ACD?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Apktool-2F4F4F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MobSF-8B0000?style=for-the-badge&logoColor=white" />
+</p>
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**Security & Network**
 
-### 🖥️ Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-D9531E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/ffuf-8B0000?style=for-the-badge&logoColor=white" />
+</p>
 
-</div>
+**Systems & Tools**
 
----
-
-
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-## `> achievements --list`
-
-| 🏆 | Achievement | Details | Year |
-|:---:|---|---|:---:|
-| 🥈 | **2nd Place — AI Armoury Workshop** | Team 0xBinaryOrbits · 80+ participants · 20+ teams · ₹10,000 prize | 2026 |
-| 📄 | **First Published Research Paper** | ML-Based Malware Detection: A Systematic Review · IJSCI | 2026 |
-| 🐧 | **BOSS OS Bug Bounty** | National-level · C-DAC Hyderabad · IIT Gandhinagar · Team 0xBinaryOrbits | 2026 |
-| 🎤 | **Volunteer — Security BSides Ahmedabad** | Community volunteer, speaker sessions, networking | 2025/2026 |
-| 🛡️ | **CNSP Certified** | Certified Network Security Practitioner · The SecOps Group | 2025 |
-| 🌐 | **Null Ahmedabad** | Active community member & volunteer | 2025 |
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-## `> platforms --security-research`
-
-<div align="center">
-
-| Platform | Link | Focus |
-|:---:|---|---|
-| ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white) | [hackerone.com/0xfsl7](https://hackerone.com/0xfsl7) | Bug Bounty · Responsible Disclosure |
-| ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=flat-square&logo=bugcrowd&logoColor=white) | [bugcrowd.com/h/0xFSL7](https://bugcrowd.com/h/0xFSL7) | Bug Bounty · Vulnerability Research |
-| ![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black) | [app.hackthebox.com/users/0xFSL7](https://app.hackthebox.com/users/0xFSL7) | Pentesting · CTF Challenges |
-| ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white) | [tryhackme.com](https://tryhackme.com/) | Blue Team · Security Labs |
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-## `> community --info`
-
-<div align="center">
-
-### 🌐 Universe of Hacking
-
-> A cybersecurity community focused on practical learning, security resources, CTFs, technical tools, research, and knowledge sharing.
-
-[![Universe of Hacking](https://img.shields.io/badge/Visit-Universe_of_Hacking-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://universeofhacking.netlify.app/)
-
-### 🔬 Affiliated With
-
-[![Malware Lab](https://img.shields.io/badge/Malware_Lab-DBFS%2C_Gujarat_University-7209B7?style=for-the-badge&logoColor=white)](https://www.linkedin.com/company/malware-lab-a-research-initiative-by-dbfs-gujarat-university/)
-[![BSides Ahmedabad](https://img.shields.io/badge/Security_BSides-Ahmedabad-FF0000?style=for-the-badge&logo=target&logoColor=white)](https://www.linkedin.com/company/security-bsides-ahmedabad/)
-[![Null Ahmedabad](https://img.shields.io/badge/Null-Ahmedabad-000000?style=for-the-badge&logoColor=white)](https://null.community/)
-
-### 🎯 CTF Teams
-
-![0xRoot2Pwn](https://img.shields.io/badge/CTF_Team-0xRoot2Pwn-FF0000?style=for-the-badge&logo=target&logoColor=white)
-![0xBinaryOrbits](https://img.shields.io/badge/Hackathon_Team-0xBinaryOrbits-00B4D8?style=for-the-badge&logo=rocket&logoColor=white)
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-
-
-
-
-
-## `> contact --open-to`
-
-<div align="center">
-
-```bash
-echo "Open to:"
-echo "  → SOC Analyst roles & internships"
-echo "  → Malware Analyst positions"
-echo "  → Threat Intelligence roles"
-echo "  → Research collaboration (detection-response tempo)"
-echo "  → Mobile forensics research"
-echo "  → ML-based malware detection projects"
-```
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-mrfaisalkhan607@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrfaisalkhan607@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/DM_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xfsl7/)
-[![ORCID](https://img.shields.io/badge/Research-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7318-3202)
+## Achievements
 
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-
-<div align="center">
-
-
-
-```
-Understand the artifact. Understand the behavior. Understand the vulnerability.
-Measure the result. Document the methodology. Make the research reproducible.
-```
+| Achievement | Details | Year |
+|:--|:--|:--:|
+| **2nd Place — AI Armoury Workshop** | Team 0xBinaryOrbits · 80+ participants · 20+ teams · ₹10,000 prize | 2026 |
+| **First published research paper** | ML-Based Malware Detection · IJSCI | 2026 |
+| **BOSS OS Bug Bounty** | National-level · C-DAC Hyderabad · IIT Gandhinagar | 2026 |
+| **Security BSides Ahmedabad** | Community volunteer | 2025/26 |
+| **CNSP Certification** | The SecOps Group | 2025 |
+| **Null Ahmedabad** | Community member and volunteer | 2025 |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:00FF41,100:0d1117&height=120&section=footer&animation=twinkling" />
+## Education & Platforms
+
+| Degree | Institution | Period |
+|:--|:--|:--|
+| MSc Cyber Security & Forensics | Gujarat University | 2025 – Present |
+| BCA | Lokmanya College of Computer Applications | 2022 – 2025 |
+
+| Platform | Profile | Focus |
+|:--|:--|:--|
+| HackerOne | [hackerone.com/0xfsl7](https://hackerone.com/0xfsl7) | Bug bounty · responsible disclosure |
+| Bugcrowd | [bugcrowd.com/h/0xFSL7](https://bugcrowd.com/h/0xFSL7) | Vulnerability research |
+| Hack The Box | [app.hackthebox.com/users/0xFSL7](https://app.hackthebox.com/users/0xFSL7) | Pentesting · CTF |
+| TryHackMe | [tryhackme.com](https://tryhackme.com) | Blue team · labs |
+
+<br/>
+
+## Ethics
+
+> All security research is conducted for **authorized testing, academic research, defensive
+> research, controlled laboratory environments, responsible disclosure, and education**.
+> No malware samples, operational offensive tooling, or exploitation instructions are
+> distributed through these repositories.
+
+<br/>
+
+## Collaboration
+
+Open to research collaboration in **Malware Analysis · Reverse Engineering · Android Security ·
+Digital Forensics · ML for Security**, as well as **SOC analyst, malware analyst, and threat
+intelligence roles**, research internships, and PhD-track collaboration.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/0xfsl7/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0001-7318-3202"><img src="https://img.shields.io/badge/ORCID_Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+<a href="https://universeofhacking.netlify.app/"><img src="https://img.shields.io/badge/Universe_of_Hacking-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<br/><br/>
+
+<pre>
+Understand the artifact.  Understand the behavior.  Understand the vulnerability.
+Measure the result.  Document the methodology.  Make the research reproducible.
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0d1117&height=120&section=footer&animation=fadeIn" alt="footer" />
 
 </div>
