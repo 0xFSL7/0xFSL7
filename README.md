@@ -6,16 +6,11 @@
 
 <br/>
 
-<a href="https://github.com/0xFSL7"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/0xfsl7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://orcid.org/0009-0001-7318-3202"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-<a href="https://x.com/0xfsl7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://universeofhacking.netlify.app/"><img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/0xFSL7"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/0xfsl7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://orcid.org/0009-0001-7318-3202"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a> <a href="https://x.com/0xfsl7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://universeofhacking.netlify.app/"><img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://doi.org/10.70849/ijsci03022686331"><img src="https://img.shields.io/badge/Published_Research-DOI:_10.70849/ijsci03022686331-58A6FF?style=flat-square&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=0xFSL7&style=flat-square&color=1F6FEB&label=Profile+Views" alt="visitors" />
+<a href="https://doi.org/10.70849/ijsci03022686331"><img src="https://img.shields.io/badge/Published_Research-DOI:_10.70849/ijsci03022686331-58A6FF?style=flat-square&labelColor=0d1117" /></a> <img src="https://komarev.com/ghpvc/?username=0xFSL7&style=flat-square&color=1F6FEB&label=Profile+Views" alt="visitors" />
 
 </div>
 
@@ -45,22 +40,25 @@ community   : [Universe of Hacking, Null Ahmedabad, BSides Ahmedabad]
 
 ## Current Focus
 
-| Area | Work |
-|:--|:--|
-| **Malware Analysis** | Static and dynamic triage, config and IOC extraction, family classification |
-| **Reverse Engineering** | x86/x64 disassembly, unpacking, anti-debug bypass, Windows internals |
-| **Android Security** | APK analysis, smali, droppers, C2 traffic, MobSF pipelines |
-| **Digital Forensics** | Artifact recovery, memory and disk analysis, evidence timelines |
-| **ML for Security** | Feature engineering, detection models, explainability (SHAP, LIME) |
-| **Threat Intelligence** | TTP mapping, MITRE ATT&CK, behavioral signatures |
+| Area                    | Work                                                                        |
+| :---------------------- | :-------------------------------------------------------------------------- |
+| **Malware Analysis**    | Static and dynamic triage, config and IOC extraction, family classification |
+| **Reverse Engineering** | x86/x64 disassembly, unpacking, anti-debug bypass, Windows internals        |
+| **Android Security**    | APK analysis, smali, droppers, C2 traffic, MobSF pipelines                  |
+| **Digital Forensics**   | Artifact recovery, memory and disk analysis, evidence timelines             |
+| **ML for Security**     | Feature engineering, detection models, explainability (SHAP, LIME)          |
+| **Threat Intelligence** | TTP mapping, MITRE ATT&CK, behavioral signatures                            |
 
 <br/>
 
 ## Publications
 
-<table><tr><td>
+<table>
+<tr>
+<td>
 
 ### Machine Learning-Based Malware Detection: A Systematic Review
+
 **International Journal of Sciences and Innovation Engineering (IJSCI) · 2026**
 
 A PRISMA-framework systematic review of classical machine learning and deep learning
@@ -73,11 +71,42 @@ engineering, model evaluation practices, explainable AI, and remaining detection
 
 **Co-authors:** Bhavesh Parmar · Dr. Kiran Dodiya · Dr. Kapil Kumar · Dr. Parvesh Sharma
 
-</td></tr></table>
+</td>
+</tr>
+</table>
 
-| Type | Work | Status |
-|:--|:--|:--:|
-| Publication | ML-Based Malware Detection: A Systematic Review | ![Published](https://img.shields.io/badge/Published_·_2026-58A6FF?style=flat-square&labelColor=0d1117) |
+### Digital Forensics — Forensic Science E-Magazine Vol. 24
+
+Two articles were published in **Forensic Science E-Magazine — Vol. 24 (August 2026)** as part of the special edition focused on **Digital Forensics**.
+
+| Article                                                                                    | Collaboration        | Publication                                         |
+| :----------------------------------------------------------------------------------------- | :------------------- | :-------------------------------------------------- |
+| **Hardware-Based Anti-Forensics in Smartphones: Implications for Mobile Device Forensics** | Maulik Paragee       | Forensic Science E-Magazine · Vol. 24 · August 2026 |
+| **Silent Witnesses: The Forensic Handling of Smartphone Evidence at Crime Scenes**         | Bhavesh Parmar (RAY) | Forensic Science E-Magazine · Vol. 24 · August 2026 |
+
+The articles explore **mobile device forensics, smartphone evidence handling, crime-scene evidence considerations, and hardware-based anti-forensic techniques**.
+
+Special thanks to **Dr. Kiran Dodiya** for his valuable guidance and continuous support throughout this research.
+
+**Read the magazine:** [Forensic Science E-Magazine — Vol. 24](https://lnkd.in/dJMuAXhC)
+
+`Digital Forensics` · `Mobile Forensics` · `Smartphone Forensics` · `Anti-Forensics` · `Forensic Science`
+
+<br/>
+
+## Research & Security Recognition
+
+### IISc Responsible Vulnerability Disclosure Programme — Hall of Fame
+
+**First Hall of Fame Recognition · August 2026**
+
+Identified, investigated, verified, and responsibly disclosed a security issue affecting the **Indian Institute of Science (IISc)** website.
+
+Following the disclosure, **my name was added to the IISc Responsible Vulnerability Disclosure Programme Hall of Fame**.
+
+**Recognition:** [IISc Hall of Fame](https://lnkd.in/drSyKiqJ)
+
+`Responsible Disclosure` · `Vulnerability Research` · `Web Security` · `IISc`
 
 
 <br/>
@@ -89,7 +118,8 @@ engineering, model evaluation practices, explainable AI, and remaining detection
 <td width="50%" valign="top">
 
 ### Malware Analysis
-```
+
+```text
 ├── Static Analysis      → PE, triage, strings
 ├── Dynamic Analysis     → sandbox, API tracing
 ├── Behavioral Analysis  → process activity
@@ -102,7 +132,8 @@ engineering, model evaluation practices, explainable AI, and remaining detection
 <td width="50%" valign="top">
 
 ### Reverse Engineering
-```
+
+```text
 ├── x86 / x64 Assembly   → disasm, decompile
 ├── Control Flow         → CFG, code recovery
 ├── Obfuscation          → packing, anti-debug
@@ -113,11 +144,13 @@ engineering, model evaluation practices, explainable AI, and remaining detection
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### Android Security
-```
+
+```text
 ├── APK Analysis         → JADX, Apktool, smali
 ├── Manifest & Perms     → attack surface
 ├── Component Analysis   → services, receivers
@@ -130,7 +163,8 @@ engineering, model evaluation practices, explainable AI, and remaining detection
 <td width="50%" valign="top">
 
 ### Digital Forensics
-```
+
+```text
 ├── Disk Forensics       → filesystem artifacts
 ├── Memory Forensics     → volatile evidence
 ├── Artifact Recovery    → deleted data, logs
@@ -141,11 +175,13 @@ engineering, model evaluation practices, explainable AI, and remaining detection
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### ML for Cybersecurity
-```
+
+```text
 ├── Dataset Engineering  → preprocessing
 ├── Classical ML         → RF, SVM, trees
 ├── Deep Learning        → CNN, LSTM
@@ -158,7 +194,8 @@ engineering, model evaluation practices, explainable AI, and remaining detection
 <td width="50%" valign="top">
 
 ### Threat Intelligence
-```
+
+```text
 ├── TTP Mapping          → MITRE ATT&CK
 ├── IOC Enrichment       → network + host intel
 ├── Malware Attribution  → family, campaign
@@ -224,30 +261,32 @@ engineering, model evaluation practices, explainable AI, and remaining detection
 
 ## Achievements
 
-| Achievement | Details | Year |
-|:--|:--|:--:|
-| **2nd Place — AI Armoury Workshop** | Team 0xBinaryOrbits · 80+ participants · 20+ teams · ₹10,000 prize | 2026 |
-| **First published research paper** | ML-Based Malware Detection · IJSCI | 2026 |
-| **BOSS OS Bug Bounty** | National-level · C-DAC Hyderabad · IIT Gandhinagar | 2026 |
-| **Security BSides Ahmedabad** | Community volunteer | 2025/26 |
-| **CNSP Certification** | The SecOps Group | 2025 |
-| **Null Ahmedabad** | Community member and volunteer | 2025 |
+| Achievement                         | Details                                                                                                              |   Year  |
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------- | :-----: |
+| **IISc Hall of Fame**               | Recognized by the IISc Responsible Vulnerability Disclosure Programme following responsible vulnerability disclosure |   2026  |
+| **Digital Forensics Publications**  | Two articles published in Forensic Science E-Magazine · Vol. 24 · August 2026                                        |   2026  |
+| **2nd Place — AI Armoury Workshop** | Team 0xBinaryOrbits · 80+ participants · 20+ teams · ₹10,000 prize                                                   |   2026  |
+| **First published research paper**  | ML-Based Malware Detection · IJSCI                                                                                   |   2026  |
+| **BOSS OS Bug Bounty**              | National-level · C-DAC Hyderabad · IIT Gandhinagar                                                                   |   2026  |
+| **Security BSides Ahmedabad**       | Community volunteer                                                                                                  | 2025/26 |
+| **CNSP Certification**              | The SecOps Group                                                                                                     |   2025  |
+| **Null Ahmedabad**                  | Community member and volunteer                                                                                       |   2025  |
 
 <br/>
 
 ## Education & Platforms
 
-| Degree | Institution | Period |
-|:--|:--|:--|
-| MSc Cyber Security & Forensics | Gujarat University | 2025 – Present |
-| BCA | Lokmanya College of Computer Applications | 2022 – 2025 |
+| Degree                         | Institution                               |     Period     |
+| :----------------------------- | :---------------------------------------- | :------------: |
+| MSc Cyber Security & Forensics | Gujarat University                        | 2025 – Present |
+| BCA                            | Lokmanya College of Computer Applications |   2022 – 2025  |
 
-| Platform | Profile | Focus |
-|:--|:--|:--|
-| HackerOne | [hackerone.com/0xfsl7](https://hackerone.com/0xfsl7) | Bug bounty · responsible disclosure |
-| Bugcrowd | [bugcrowd.com/h/0xFSL7](https://bugcrowd.com/h/0xFSL7) | Vulnerability research |
-| Hack The Box | [app.hackthebox.com/users/0xFSL7](https://app.hackthebox.com/users/0xFSL7) | Pentesting · CTF |
-| TryHackMe | [tryhackme.com](https://tryhackme.com) | Blue team · labs |
+| Platform     | Profile                                                                    | Focus                               |
+| :----------- | :------------------------------------------------------------------------- | :---------------------------------- |
+| HackerOne    | [hackerone.com/0xfsl7](https://hackerone.com/0xfsl7)                       | Bug bounty · responsible disclosure |
+| Bugcrowd     | [bugcrowd.com/h/0xFSL7](https://bugcrowd.com/h/0xFSL7)                     | Vulnerability research              |
+| Hack The Box | [app.hackthebox.com/users/0xFSL7](https://app.hackthebox.com/users/0xFSL7) | Pentesting · CTF                    |
+| TryHackMe    | [tryhackme.com](https://tryhackme.com)                                     | Blue team · labs                    |
 
 <br/>
 
@@ -268,9 +307,7 @@ intelligence roles**, research internships, and PhD-track collaboration.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/0xfsl7/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://orcid.org/0009-0001-7318-3202"><img src="https://img.shields.io/badge/ORCID_Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-<a href="https://universeofhacking.netlify.app/"><img src="https://img.shields.io/badge/Universe_of_Hacking-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/0xfsl7/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://orcid.org/0009-0001-7318-3202"><img src="https://img.shields.io/badge/ORCID_Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a> <a href="https://universeofhacking.netlify.app/"><img src="https://img.shields.io/badge/Universe_of_Hacking-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
